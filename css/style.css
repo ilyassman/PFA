@@ -1500,3 +1500,20 @@ h5,
   padding-right: 16px;
   font-weight: 800;
 }
+.cards .course-1-item {
+  width: 350px;
+  height: 570px;
+  margin-top: 30px;
+}
+.cards .course-1-item .course-1-content {
+  margin-top: -16px;
+}
+.cards .course-1-item .course-1-content .rating {
+  margin-top: -15px;
+}
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 50px;
+}
