@@ -25,7 +25,7 @@ document.getElementById('emplacement-entete').innerHTML = `
             </ul>
           </li>
           <li>
-            <a href="courses.html" class="nav-link text-left">Courses</a>
+            <a href="courses.html" class="nav-link text-left">Certificats</a>
           </li>
         </ul>                                                                                                                                                                                                                                                                                          </ul>
       </nav>
