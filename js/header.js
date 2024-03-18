@@ -20,8 +20,6 @@ document.getElementById('emplacement-entete').innerHTML = `
               <li><a href="course-single.html">GÉNIE CIVIL AVANCÉ ET GESTION DE PROJETS BTP AVEC MS PROJECT</a></li>
               <li><a href="course-single.html">CONTRÔLE DE GESTION APPLIQUÉ AUX PROJETS DU BTP</a></li>
               <li><a href="course-single.html">CONCEPTION AVANCÉE DE STRUCTURES AVEC ROBOT STRUCTURAL ANALYSIS ET TEKLA STRUCTURES</a></li>
-
-              
             </ul>
           </li>
           <li>
@@ -29,7 +27,6 @@ document.getElementById('emplacement-entete').innerHTML = `
           </li>
         </ul>                                                                                                                                                                                                                                                                                          </ul>
       </nav>
-
     </div>
     <div class="ml-auto">
       <div class="social-wrap">
@@ -42,5 +39,6 @@ document.getElementById('emplacement-entete').innerHTML = `
 </div>
 
 </header>
-
 `;
+
+
